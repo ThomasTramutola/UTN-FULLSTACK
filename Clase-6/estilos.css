@@ -1,0 +1,26 @@
+h2 {
+    color: violet;
+    font-size: 50px;
+}
+
+.subtitulo-especial {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+/* selector universal */
+* {
+    font-family: sans-serif; 
+}
+
+.subtitulo-especial{
+    color: yellow;
+}
+
+#super-especial{
+    color: blue;
+}
+.super-especial{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
